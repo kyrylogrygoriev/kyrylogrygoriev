@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyrylogrygoriev
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS
+- 🌱 I'm currently studying Front-End magic at RS School
 - 💞️ I’m looking to collaborate on some interesting projects
 - 📫 How to reach me: bluejeansmonk@gmail.com
 
